@@ -6,7 +6,9 @@ KanResNet is an enhanced version of ResNet that incorporates Kan convolutions.
 
 ```bash
 pip install -r requirements.txt
+# Train
 pip install poutyne
+# Demo
 pip install gradio
 ```
 
