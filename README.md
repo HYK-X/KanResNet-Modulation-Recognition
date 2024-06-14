@@ -35,3 +35,4 @@ python app_mixed.py
 python app_select.py
 ```
 This project is based on the [project]( https://github.com/isaaccorley/pytorch-modulation-recognition)
+FastKanConv is based on the [project](https://github.com/IvanDrokin/torch-conv-kan)
