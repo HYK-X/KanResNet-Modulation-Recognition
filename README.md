@@ -28,5 +28,10 @@ After training Wandb logs will be located in the logs directory .
 ```bash
 python evaluate.py --models resnet kanresnet --weights resnet_final_weights.pt kanresnet_final_weights.pt
 ```
-
+## Demo
+An interactive interface for dataset exploration and signal prediction can be accessed using the following command.
+```bash
+python app_mixed.py
+python app_select.py
+```
 This project is based on the [project]( https://github.com/isaaccorley/pytorch-modulation-recognition)
