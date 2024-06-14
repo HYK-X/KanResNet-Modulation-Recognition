@@ -1,5 +1,6 @@
 # KanResNet-Modulation-Recognition
 This project compares the performance of KanResNet and ResNet in recognizing modulation schemes using the RadioML2016.10a dataset. It also provides an interactive interface for dataset exploration and signal prediction.
+KanResNet is an enhanced version of ResNet that incorporates Kan convolutions.
 ## Install Requirements
 
 ```bash
